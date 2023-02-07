@@ -1,29 +1,14 @@
-def presentation():
+👋 Hi, I’m @GTdotdev
 
-...."""Contain the presentation of my github and personal info."""
+👀 I’m interested in coding and tech general
 
-....user_name = "@GTdotdev"
+🌱 I'm currently learning Python and C#.NET
 
-....currently_learning = "Python and C#.NET"
+💞️ I’m looking to collaborate on (no plans yet)
 
-....email = "gustavotum.dev@outlook.com"
+📫 How to reach me: gustavotum.dev@outlook.com
 
-....interests = "coding and tech general"
 
-....print(f"""
-
-....👋 Hi, I’m {user_name}
-
-....👀 I’m interested in {interests}
-
-....🌱 I'm currently learning {currently_learning}
-
-....💞️ I’m looking to collaborate on (no plans yet)
-
-....📫 How to reach me: {email}
-  """)
-
-presentation()
 <!---
 GTdotdev/GTdotdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
