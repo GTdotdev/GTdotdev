@@ -6,7 +6,9 @@
 
 💞️ I’m looking to collaborate on (no plans yet)
 
-📫 How to reach me: gustavotum.dev@outlook.com
+📫 How to reach me: 
+gustavotum.dev@outlook.com
+https://www.linkedin.com/in/gfmt/
 
 
 <!---
